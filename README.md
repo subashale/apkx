@@ -1,2 +1,2 @@
-# apkx_sh
+# apkx
 androidx refresh
